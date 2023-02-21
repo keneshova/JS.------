@@ -43,4 +43,7 @@ for( let i = 1; i <= 10; i++){
   example8.append(listItem);
 }
 
+let fruits = ["Apple", "Pear", "peach", "Orange", "Banana"];
+
+
 
