@@ -2,6 +2,7 @@ let example1 = document.querySelector("article");
 console.log(example1);
 
 let example2 = document.querySelector("p");
+example2.textContent = "Hello world";
 console.log(example2);
 
 let example3 = document.querySelector(".example-3");
